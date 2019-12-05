@@ -1,0 +1,11 @@
+{
+  "name": "cloudabis-sdk",
+  "version": "3.2.1",
+  "description": "CloudABIS NodeJS SDK",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KernellÓ Inc ",
+  "license": "ISC"
+}
