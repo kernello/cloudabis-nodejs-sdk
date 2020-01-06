@@ -1,7 +1,7 @@
 /// <summary>
 /// Biometric operations
 /// </summary>
-const EnumOperationName = {
+module.exports = {
     /// <summary>
     /// Not a valid operation.
     /// </summary>
@@ -35,5 +35,3 @@ const EnumOperationName = {
     /// </summary>
     DeleteID: 7
 }
-
-module.exports = { EnumOperationName };
