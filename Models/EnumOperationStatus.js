@@ -1,4 +1,4 @@
-const EnumOperationStatus = {
+module.exports = {
     /// <summary>
     /// No status
     /// </summary>
@@ -24,5 +24,3 @@ const EnumOperationStatus = {
     /// </summary>
     CLOUD_API_ERROR: 5,
 }
-
-module.exports = { EnumOperationStatus };
